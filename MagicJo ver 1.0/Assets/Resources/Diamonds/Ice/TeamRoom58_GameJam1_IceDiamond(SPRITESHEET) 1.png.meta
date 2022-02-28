@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: f0b7d550f186e044388f7bd981a2ab92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1836609383458472687
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_0
+  - first:
+      213: -5410828381295254724
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_1
+  - first:
+      213: -3330556811055219604
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_2
+  - first:
+      213: 7281027370044561076
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_3
+  - first:
+      213: 1883729020064666318
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_4
+  - first:
+      213: -3500979309976311992
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_5
+  - first:
+      213: -4187497677411521153
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_6
+  - first:
+      213: -976956912503406780
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_7
+  - first:
+      213: -4922556676589360119
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_8
+  - first:
+      213: 3641107970436065355
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_9
+  - first:
+      213: 7392783367706058895
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_10
+  - first:
+      213: 3710362899119726221
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_11
+  - first:
+      213: 4778189394707294467
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_12
+  - first:
+      213: -7054007769177645333
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_13
+  - first:
+      213: -1397278695965295870
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_14
+  - first:
+      213: 8311160151900851167
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_15
+  - first:
+      213: 895716740393389672
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_16
+  - first:
+      213: 6926978235261151586
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_17
+  - first:
+      213: 6601032076396779409
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_18
+  - first:
+      213: -2302009871348702750
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_19
+  - first:
+      213: 973307754091020543
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_20
+  - first:
+      213: -3503290007497234483
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_21
+  - first:
+      213: 5929763074124081897
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_22
+  - first:
+      213: -6487768607819209376
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_23
+  - first:
+      213: 5461195527602281878
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_24
+  - first:
+      213: -6173785958823096733
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_25
+  - first:
+      213: -1287096425043041138
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_26
+  - first:
+      213: 7240010376278242314
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_27
+  - first:
+      213: 4601756966260283654
+    second: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1670
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe20134e082fc7910800000000000000
+      internalID: 1836609383458472687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1670
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c336b484140e8e4b0800000000000000
+      internalID: -5410828381295254724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1670
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cbbc4f93c77c1d0800000000000000
+      internalID: -3330556811055219604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_3
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1670
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6176701d76b0560800000000000000
+      internalID: 7281027370044561076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_4
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1670
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec29c063099542a10800000000000000
+      internalID: 1883729020064666318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1350
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847aed6ddd50a6fc0800000000000000
+      internalID: -3500979309976311992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1350
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dec187c0503e5c0800000000000000
+      internalID: -4187497677411521153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_7
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1350
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f3f5d3dd62172f0800000000000000
+      internalID: -976956912503406780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1350
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ce92198c09fabb0800000000000000
+      internalID: -4922556676589360119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_9
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1350
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b486fae5860d78230800000000000000
+      internalID: 3641107970436065355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1030
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f802985ed41789660800000000000000
+      internalID: 7392783367706058895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1030
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ed1ddf56bdd7330800000000000000
+      internalID: 3710362899119726221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_12
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1030
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309211540f98f4240800000000000000
+      internalID: 4778189394707294467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1030
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee1253ce412b1e90800000000000000
+      internalID: -7054007769177645333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_14
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1030
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b74cadd6edb9ce0800000000000000
+      internalID: -1397278695965295870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 710
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb8e6daf1c275370800000000000000
+      internalID: 8311160151900851167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 710
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ec48231a93e6c00800000000000000
+      internalID: 895716740393389672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 710
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2696a971102912060800000000000000
+      internalID: 6926978235261151586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 710
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197d69023b39b9b50800000000000000
+      internalID: 6601032076396779409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_19
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 710
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e161d4f73e9d00e0800000000000000
+      internalID: -2302009871348702750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 390
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff08abbde32e18d00800000000000000
+      internalID: 973307754091020543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 390
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7a3f5ac40d16fc0800000000000000
+      internalID: -3503290007497234483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_22
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 390
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eae4634910ca4250800000000000000
+      internalID: 5929763074124081897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 390
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065610a23d0d6f5a0800000000000000
+      internalID: -6487768607819209376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_24
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 390
+        width: 230
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d9fafc5601acb40800000000000000
+      internalID: 5461195527602281878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 230
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e0e0d616e425aa0800000000000000
+      internalID: -6173785958823096733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 230
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8462a9ee90532ee0800000000000000
+      internalID: -1287096425043041138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_27
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 70
+        width: 230
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04f438f31fa97460800000000000000
+      internalID: 7240010376278242314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_IceDiamond(SPRITESHEET)_28
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 70
+        width: 230
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6099f946499bcdf30800000000000000
+      internalID: 4601756966260283654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

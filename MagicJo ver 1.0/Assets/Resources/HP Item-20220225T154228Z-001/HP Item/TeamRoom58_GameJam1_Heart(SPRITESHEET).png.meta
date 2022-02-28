@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: de79927dce502384189c0273b44402fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8814277500828561903
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_0
+  - first:
+      213: 2945676545664916076
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_1
+  - first:
+      213: -7706387939137613668
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_2
+  - first:
+      213: 3953741607285402472
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_3
+  - first:
+      213: 8307825648269986777
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_4
+  - first:
+      213: 2204642950872974400
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_5
+  - first:
+      213: 5903147702001440871
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_6
+  - first:
+      213: -6442437735585421812
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_7
+  - first:
+      213: -7218433435879376920
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_8
+  - first:
+      213: -7763586139789630338
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_9
+  - first:
+      213: -8168248967871498658
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_10
+  - first:
+      213: -2065025367702455604
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_11
+  - first:
+      213: -5830890333703483434
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_12
+  - first:
+      213: -6213962658390196242
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_13
+  - first:
+      213: 3531876679057767680
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_14
+  - first:
+      213: 3527941171341260811
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_15
+  - first:
+      213: -5268739534588724022
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_16
+  - first:
+      213: -468966290611783568
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_17
+  - first:
+      213: -5959434161829802043
+    second: TeamRoom58_GameJam1_Heart(SPRITESHEET)_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_0
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 900
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ba9cdfaa925a70800000000000000
+      internalID: 8814277500828561903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 730
+        width: 180
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a9e8f163521e820800000000000000
+      internalID: 2945676545664916076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 730
+        width: 180
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c901952eff86d0590800000000000000
+      internalID: -7706387939137613668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 830
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bade34b038ed630800000000000000
+      internalID: 3953741607285402472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_4
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 720
+        width: 200
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db030d09635b4370800000000000000
+      internalID: 8307825648269986777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 830
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0444a574517789e10800000000000000
+      internalID: 2204642950872974400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 700
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768957a0f813ce150800000000000000
+      internalID: 5903147702001440871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 590
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06ebd2530dd796a0800000000000000
+      internalID: -6442437735585421812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 580
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e77b93f809f2db90800000000000000
+      internalID: -7218433435879376920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 510
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7461b20a83324490800000000000000
+      internalID: -7763586139789630338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 390
+        width: 220
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56711947dc84ae80800000000000000
+      internalID: -8168248967871498658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 510
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccabce97e5e8753e0800000000000000
+      internalID: -2065025367702455604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 510
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df48578224841fa0800000000000000
+      internalID: -5830890333703483434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 400
+        width: 200
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef3c1b92e193c9a0800000000000000
+      internalID: -6213962658390196242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_14
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 510
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d79bd702fb30130800000000000000
+      internalID: 3531876679057767680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_15
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 410
+        width: 180
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b087542bdc3c5f030800000000000000
+      internalID: 3527941171341260811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 380
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc38caee4da1e6b0800000000000000
+      internalID: -5268739534588724022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 360
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078b374b4a5ed79f0800000000000000
+      internalID: -468966290611783568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TeamRoom58_GameJam1_Heart(SPRITESHEET)_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 90
+        width: 180
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf8ec94436db4da0800000000000000
+      internalID: -5959434161829802043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
